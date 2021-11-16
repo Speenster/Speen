@@ -1,0 +1,454 @@
+
+<!DOCTYPE html><html xmlns="https://www.w3.org/1999/xhtml" lang="en-US"><head><meta charset="utf-8"> <meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=no, minimal-ui"/> <title>Basketball Legends - Basketball Legends Game</title><meta name="title" content="Basketball Legends - Basketball Legends Game"><meta name="description" content="Basketball Legends - Choose Your Favourite Legend, Play And Become The Champion."><meta name="external" content="true"><meta name="keywords" content="basketball legends, play basketball legends, basketball legends unblocked, basketball legends, basketball legends game, basketball legends online, basketball legends 2019, basketball legends 2020"><meta http-equiv="content-language" content="en" /><meta name="news_keywords" content="basketball legends, play basketball legends, basketball legends unblocked, basketball legends, basketball legends game, basketball legends online, basketball legends 2019, basketball legends 2020"><meta name="distribution" content="Global" /><meta http-equiv="audience" content="General" /><meta name="author" content="Basketball Legends - Basketball Legends Game" /><meta property="og:url" content="https://basketball-legends.online" /><meta property="og:description" content="Basketball Legends - Choose Your Favourite Legend, Play And Become The Champion." /><meta name="resource-type" content="Document" /><meta property="og:image" content="/upload/imgs/options/s-logo.png" /><meta property="og:title" content="Basketball Legends - Basketball Legends Game"><meta property="og:site_name" content="Basketball Legends"><link rel="image_src" href="/upload/imgs/options/s-logo.png" /><meta property="og:type" content="article" /><link rel="apple-touch-icon" href="/upload/imgs/options/s-logo.png"/><link rel="canonical" href="https://basketball-legends.online" /><link rel="icon" href="/upload/cache/upload/imgs/options/fav-s20x20.png"/><link rel="apple-touch-icon" sizes="57x57" href="/upload/cache/upload/imgs/options/fav-m57x57.png"><link rel="apple-touch-icon" sizes="72x72" href="/upload/cache/upload/imgs/options/fav-m72x72.png"><link rel="apple-touch-icon" sizes="114x114" href="/upload/cache/upload/imgs/options/fav-s20x20.png">
+ <link rel="stylesheet" href="/themes/basketballlegend/rs/css/bootstrap.min.css" > <link rel="stylesheet" type="text/css" href="/themes/basketballlegend/rs/css/main.css?v=20"><script type="text/javascript" src="/themes/basketballlegend/rs/js/jquery-3.4.1.min.js"></script> 
+ <script>var domain_url = 'https://basketball-legends.online';</script><style>h1{
+			color: #fff;
+			height: 45px;
+			vertical-align: middle; 
+			margin: 0; 
+			padding: 0; 
+			font-size: 2.0rem;
+		}
+		.play_bar img{
+			width: 42px;
+			height: 42px;
+			cursor: pointer;
+		}
+		
+		.tags_bar{
+			padding: 5px 15px;
+		}
+		
+		.tags_bar a{
+			margin: 5px 5px;
+			padding: 7px 5px;
+		}
+		
+		.title{
+			font-weight: 600;
+		}
+		
+		.title-game{
+			font-weight: 600;
+		}
+		
+		.carousel-item{
+			postion: relative;
+		}
+		.fix-h1{
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%,-50%);
+			background: #efefef;
+			color: black;
+			/* padding: 15px; */
+			/* margin: 15px; */
+			width: 100%;
+			opacity: .8;
+		}</style><style>.ads_side_left {
+			position: absolute;
+			left: 0;
+			top: 140px;
+			width: 160px;
+			height: 600px;
+			display: none;
+		}
+		
+		.ads_side_right {
+			position: absolute;
+			right: 0;
+			top: 140px;
+			width: 160px;
+			height: 600px;
+		}
+		
+
+		@media (min-width: 768px){
+			.ads_side_left, .ads_side_right {
+				display: none;
+			}
+		}
+		
+		@media (min-width: 992px){
+			.ads_side_left {
+				display: block;
+			}
+			.ads_side_right{
+				display: block;
+			}
+		}</style><script >(function (i, s, o, g, r, a, m) {
+ i['GoogleAnalyticsObject'] = r;
+ i[r] = i[r] || function () {
+ (i[r].q = i[r].q || []).push(arguments)
+ }, i[r].l = 1 * new Date();
+ a = s.createElement(o),
+ m = s.getElementsByTagName(o)[0];
+ a.async = 1;
+ a.src = g;
+ m.parentNode.insertBefore(a, m)
+ })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+ ga('create', 'UA-143089480-6', 'auto');
+ ga('send', 'pageview');
+</script> 
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>(adsbygoogle = window.adsbygoogle || []).push({
+ google_ad_client: "ca-pub-9670083587963357",
+ enable_page_level_ads: true
+ });</script></head><script type='text/javascript'>var themeurl = 'http://basketball-legends.online/themes/basketballlegend/';
+ function get_format_url(controller, action) {
+ var urlformat = '/:a:.:c:';
+ urlformat = urlformat.replace(':c:', controller);
+ return urlformat.replace(':a:', action);
+ }</script>	<body><div class="section"><nav class="navbar navbar-expand-lg navbar-dark bg-dark"><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><a title="Basketball Legends" class="navbar-brand" href="/"><img class="logo" src="/upload/cache/upload/imgs/options/s-logo-m98x47.png"></a><div class="collapse navbar-collapse" id="navbarTogglerDemo03"><ul class="navbar-nav mr-auto mt-2 mt-lg-0"><li class="nav-item active"><a href="/hot-games" class="nav-link" >Hot Games</a></li><li class="nav-item active"><a href="/new-games" class="nav-link" >New Games</a></li></ul><form action="/search" class="form-inline my-2 my-lg-0"><input class="form-control mr-sm-2" type="search" name="q" placeholder="Search" aria-label="Search"><button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button></form></div></nav> </div><div class="section"><div class="list-game"><div class="containerfull"><div class="mainrow"><div class="center-box"><div class="player"><div class="swf-player"><script type="text/javascript">document.write('<iframe id="iframehtml5" width="100%" height="623" src="/basketball-legends.embed" frameborder="0" border="0" scrolling="no" class="iframe-default" allowfullscreen></iframe>');</script></div><div class="play_bar"><center><img id="expand" title="Play In FullScreen" src="/themes/basketballlegend/rs/images/icon-fullscreen.png" /></center></div><div class="tags_bar"><center><a title="halloween games" href="/tags/halloween-games" class="badge badge-primary">halloween games</a><a title="halloween basketball unblocked games" href="/tags/halloween-basketball-unblocked-g" class="badge badge-secondary">halloween basketball unblocked games</a><a title="halloween basketball games" href="/tags/halloween-basketball-games" class="badge badge-success">halloween basketball games</a><a title="Action" href="/games/action" class="badge badge-danger">Action</a>							<center></div><div class="Description">	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- AdssResponsive --><ins class="adsbygoogle"
+ style="display:block"
+ data-ad-client="ca-pub-9670083587963357"
+ data-ad-slot="4737164084"
+ data-ad-format="auto"
+ data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>						</div><div class="Description"><h1>Basketball Legends</h1><p><p>In Basketball Legends, try to play like you own your own basketball team with fun characters. See if your team wins the opposing team, score more points and win the match. Play quick matches, tournaments, or even play with your friends in the two player mode. Unlock all the targets and write your name in the hall of fame by getting high scores.</p> </p><script>var domain_url = 'https://basketball-legends.online';</script><style> 
+ #rating{
+ color: #222; 
+ padding: 15px ;
+ background-color: #000000;
+ }
+	
+	#rating div{
+ padding: 0;
+ margin: 0;
+ }
+	
+	 #rating span{
+ color: #fff;
+ }
+
+ #rating img{
+ width: auto !important;
+ height:auto !important;
+ }
+	
+	.inner-rating{
+		width: 100%;
+		overflow: auto; 
+	}
+
+ .my_progress-bar span{
+ font-family: monospace;
+ font-size: 90%;
+ color: #616161;
+ }
+
+ .full_rate{
+ width: 50%;
+ float:left
+ }
+
+
+ .text-center{
+ text-align: center;
+ }
+ .rating_hover{
+ position:relative;
+ }
+ .rating{
+ position: absolute;
+ left: 50%;
+ transform: translateX(-50%);
+ }
+
+ .full_rate_star{
+ width: 10%;
+ float:left;
+ position: relative;
+ }
+
+ .full_rate_my_progress{
+ width: 90%;
+ float:left;
+ padding-top:5px;
+ }
+
+ .full_rate_my_progress span{
+ color: #fff;
+ }
+
+ .full_rate_row {
+ clear: both;
+ }
+
+ .full_rate_star span.gly-phicon {
+		position: absolute;
+		left: 6px;
+		top: 50%;
+		transform: translateY(-50%);
+		font-size: 14px;
+		font-weight: 600;
+ }
+
+ .my_progress-bar{
+
+ height: 20px;
+ border-radius: 5px;
+ }
+
+ .my_progress{
+ border: 1px solid #efefef;
+ border-radius: 5px;
+ }
+
+ @media only screen and (max-width: 600px) {
+ .full_rate {
+ width: 100%;
+ }
+ .rating-desc{
+ padding-top: 30px !important;
+ }
+
+ .full_rate_star{
+ width: 20%;
+ float:left;
+ position: relative;
+ }
+ .full_rate_my_progress{
+ width: 80%;
+ float:left;
+ padding-top:5px;
+ }
+ }
+
+</style><div id="rating" > <div class="inner-rating" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"><div id="full_rate_1" class="full_rate"><div class="rate-info text-center" ><span id="rate-avg" rel="v:rating"> <span ><span itemprop="ratingValue" class="rating-num gorgeous" id="averagerate">4.3</span><span class="rating-num gorgeous">/</span><span itemprop="bestRating" class="rating-num gorgeous" >5</span></span></span><span ><span itemprop="reviewAspect" class = "rate-title gorgeous" title = "Gorgeous">Gorgeous</span></span><div class="rating_hover"><div class="rating" id = "default-demo" data-id = "205" style = "cursor: pointer;margin: 10px;" data-score = "4.3" data-readonly = "" ></div></div><span id="countrate">456</span><i class="gly-phicon gly-phicon-user"></i> 
+</div></div><div id="full_rate_2" class="full_rate"><div class=" rating-desc"><div class="full_rate_row"><div class="full_rate_star"><img src="/themes/basketballlegend/rs/plugins/raty/images/star-on-big.png"><span class="gly-phicon gly-phicon-star">5</span></div><div class="full_rate_my_progress"><div class="my_progress my_progress-striped"><div id="gorgeous-bar" class="my_progress-bar my_progress-bar-success" role="my_progressbar" aria-valuenow="20"
+								 aria-valuemin="0" aria-valuemax="100" style="width: 84.2%"><span id="gorgeous-bar-value" class="sr-only">84.2%</span></div></div></div></div><!-- end 5 --><div class="full_rate_row"><div class="full_rate_star"><img src="/themes/basketballlegend/rs/plugins/raty/images/star-on-big.png"><span class="gly-phicon gly-phicon-star">4</span></div><div class="full_rate_my_progress"><div class="my_progress"><div id="good-bar" class="my_progress-bar my_progress-bar-good" role="my_progressbar" aria-valuenow="20"
+								 aria-valuemin="0" aria-valuemax="100" style="width: 2.4%"><span id="good-bar-value" class="sr-only">2.4%</span></div></div></div></div><!-- end 4 --><div class="full_rate_row"><div class="full_rate_star"><img src="/themes/basketballlegend//rs/plugins/raty/images/star-on-big.png"><span class="gly-phicon gly-phicon-star">3</span></div><div class="full_rate_my_progress"><div class="my_progress"><div id="regular-bar" class="my_progress-bar my_progress-bar-info" role="my_progressbar" aria-valuenow="20"
+								 aria-valuemin="0" aria-valuemax="100" style="width: 1.8%"><span id="regular-bar-value" class="sr-only">1.8% </span></div></div></div></div><!-- end 3 --><div class="full_rate_row"><div class="full_rate_star"><img src="/themes/basketballlegend/rs/plugins/raty/images/star-on-big.png"><span class="gly-phicon gly-phicon-star">2</span></div><div class="full_rate_my_progress"><div class="my_progress"><div id="poor-bar" class="my_progress-bar my_progress-bar-warning" role="my_progressbar" aria-valuenow="20"
+								 aria-valuemin="0" aria-valuemax="100" style="width: 1.8%"><span id="poor-bar-value" class="sr-only">1.8%</span></div></div></div></div><!-- end 2 --><div class="full_rate_row"><div class="full_rate_star"><img src="/themes/basketballlegend/rs/plugins/raty/images/star-on-big.png"><span itemprop="worstRating" class="gly-phicon gly-phicon-star">1</span></div><div class="full_rate_my_progress"><div class="my_progress"><div id="bad-bar" class="my_progress-bar my_progress-bar-danger" role="my_progressbar" aria-valuenow="80"
+								 aria-valuemin="0" aria-valuemax="100" style="width: 9.9%"><span id="bad-bar-value" class="sr-only">9.9%</span></div></div></div></div><!-- end 1 --></div><!-- end row --></div> </div></div>
+
+
+
+<script type="text/javascript" src="/themes/basketballlegend/rs/plugins/raty/jquery.raty.js"></script><script>var readdddonly;
+ var style = "-big";
+ readdddonly = $('#default-demo').attr('data-readonly');
+ $('#default-demo').raty({
+ readOnly: readdddonly,
+ cancelOff: '/themes/basketballlegend/rs/plugins/raty/images/cancel-off.png',
+ cancelOn: '/themes/basketballlegend/rs/plugins/raty/images/cancel-on.png',
+ starHalf: '/themes/basketballlegend/rs/plugins/raty/images/star-half' + style + '.png',
+ starOff: '/themes/basketballlegend/rs/plugins/raty/images/star-off' + style + '.png',
+ starOn: '/themes/basketballlegend/rs/plugins/raty/images/star-on' + style + '.png',
+ half: true,
+ number: 5,
+ numberMax: 5,
+ score: function () {
+ return $(this).attr('data-score');
+ },
+ click: function (score, evt) {
+ var game_id = $(this).attr('data-id');
+ var rate = $(this).attr('data-score');
+ var url = domain_url + '/rate-game.ajax';
+ var data = {'game_id': game_id, 'score': score};
+ $.ajax({
+ type: "GET",
+ url: url,
+ data: data,
+ cache: false,
+ success: function (html) {
+
+ var data = $.parseJSON(html);
+
+ $('#countrate').text(data.rate_count);
+ $('#averagerate').text(data.rate_average);
+
+ $('#gorgeous-bar').css("width", data.gorgeous + "%");
+ $('#gorgeous-bar-value').html(data.gorgeous + "%");
+ $('#good-bar').css("width", data.good + "%");
+ $('#good-bar-value').html(data.good + "%");
+ $('#regular-bar').css("width", data.regular + "%");
+ $('#regular-bar-value').html(data.regular + "%");
+ $('#poor-bar').css("width", data.poor + "%");
+ $('#poor-bar-value').html(data.poor + "%");
+ $('#bad-bar').css("width", data.bad + "%");
+ $('#bad-bar-value').html(data.bad + "%");
+
+ $(".rating-num").addClass(data.class);
+
+
+ $(".rate-title").addClass(data.class);
+ $(".rate-title").html(data.name);
+
+ $('#default-demo').raty({
+ readOnly: true,
+ cancelOff: '/themes/basketballlegend/rs/plugins/raty/images/cancel-off.png',
+ cancelOn: '/themes/basketballlegend/rs/plugins/raty/images/cancel-on.png',
+ starHalf: '/themes/basketballlegend/rs/plugins/raty/images/star-half' + style + '.png',
+ starOff: '/themes/basketballlegend/rs/plugins/raty/images/star-off' + style + '.png',
+ starOn: '/themes/basketballlegend/rs/plugins/raty/images/star-on' + style + '.png',
+ half: true,
+ number: 5,
+ numberMax: 5,
+ score: score
+ });
+ $("#default-demo").css("cursor: pointer;");
+ },
+ error: function () {
+ $('#default-demo').raty({
+ readOnly: true,
+ cancelOff: '/themes/basketballlegend/rs/plugins/raty/images/cancel-off.png',
+ cancelOn: '/themes/basketballlegend/rs/plugins/raty/images/cancel-on.png',
+ starHalf: '/themes/basketballlegend/rs/plugins/raty/images/star-half' + style + '.png',
+ starOff: '/themes/basketballlegend/rs/plugins/raty/images/star-off' + style + '.png',
+ starOn: '/themes/basketballlegend/rs/plugins/raty/images/star-on' + style + '.png',
+ half: true,
+ number: 5,
+ numberMax: 5,
+ score: rate,
+ });
+ }
+ });
+ }
+ });</script> <style type="text/css">.gorgeous{color:#449d44}
+ .my_progress-bar-success{
+ background-color:#449d44
+ }
+ .good{color:#449d44}
+ .my_progress-bar-good{
+ background-color:#00BCD4
+ }
+ .my_progress-bar-info{
+ background-color:#B2EBF2
+ }
+ .regular{color:#31b0d5}
+ .my_progress-bar-warning{
+ background-color:#ec971f
+ }
+ .poor{color:#ec971f}
+ .bad{color:#c9302c}
+ .my_progress-bar-danger{
+ background-color:#c9302c
+ }
+ .rate-title{display: block;font-size: 25px;text-align: center; line-height: 25px;}
+ .gly-phicon { margin-right:5px;}
+ .rating .gly-phicon {font-size: 22px;}
+ .rating-num { margin-top:0px;font-size: 40px; line-height: 40px;}
+ .my_progress { margin-bottom: 5px;}
+ .my_progress-bar { text-align: left; }
+ .rating-desc .col-md-3 {padding-right: 0px;}
+ .sr-only { margin-left: 5px;overflow: visible;clip: auto; }
+ i{margin-left: 5px;margin-right: 5px; }
+</style> </div><div class="Description">	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- AdssResponsive --><ins class="adsbygoogle"
+ style="display:block"
+ data-ad-client="ca-pub-9670083587963357"
+ data-ad-slot="4737164084"
+ data-ad-format="auto"
+ data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>						</div>						</div></div></div></div></div><div class="ads_side_left"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- AdssResponsive --><ins class="adsbygoogle"
+ style="display:block"
+ data-ad-client="ca-pub-9670083587963357"
+ data-ad-slot="4737164084"
+ data-ad-format="auto"
+ data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><div class="ads_side_right"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- AdssResponsive --><ins class="adsbygoogle"
+ style="display:block"
+ data-ad-client="ca-pub-9670083587963357"
+ data-ad-slot="4737164084"
+ data-ad-format="auto"
+ data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div><div class="section"><div class="containerfull"><div class="mainrow"><div class="game-other"><div class="box-n"><div class="game-boxes"><div class="boxes-in"><a href="/squid-fighter"><div class="title">Squid Fighter			</div><div class="img-game"><img class="lozad" data-loaded="false" data-src="/upload/cache/upload/imgs/squid-fighter6-m102x102.jpg"></div></a></div></div> <div class="game-boxes"><div class="boxes-in"><a href="/halloween-mania"><div class="title">Halloween Mania			</div><div class="img-game"><img class="lozad" data-loaded="false" data-src="/upload/cache/upload/imgs/halloween-mania5-m102x102.jpg"></div></a></div></div> <div class="game-boxes"><div class="boxes-in"><a href="/flying-mufic"><div class="title">Flying Mufic			</div><div class="img-game"><img class="lozad" data-loaded="false" data-src="/upload/cache/upload/imgs/flying-mufic-m102x102.jpg"></div></a></div></div> <div class="game-boxes"><div class="boxes-in"><a href="/crossy-miners"><div class="title">Crossy Miners			</div><div class="img-game"><img class="lozad" data-loaded="false" data-src="/upload/cache/upload/imgs/crossy-miner4-m102x102.jpg"></div></a></div></div> <div class="game-boxes"><div class="boxes-in"><a href="/epic-run-race"><div class="title">Epic Run Race			</div><div class="img-game"><img class="lozad" data-loaded="false" data-src="/upload/cache/upload/imgs/epic-run-race4-m102x102.jpg"></div></a></div></div> <div class="game-boxes"><div class="boxes-in"><a href="/mini-shooters"><div class="title">Mini Shooters			</div><div class="img-game"><img class="lozad" data-loaded="false" data-src="/upload/cache/upload/imgs/mini-shooters6-m102x102.jpg"></div></a></div></div> <div class="game-boxes"><div class="boxes-in"><a href="/robo-battle"><div class="title">Robo Battle			</div><div class="img-game"><img class="lozad" data-loaded="false" data-src="/upload/cache/upload/imgs/robo-battle-game3-m102x102.jpg"></div></a></div></div> <div class="game-boxes"><div class="boxes-in"><a href="/merge-cannon-chicken-defense"><div class="title">Merge Cannon: Chicken Defense			</div><div class="img-game"><img class="lozad" data-loaded="false" data-src="/upload/cache/upload/imgs/merge-cannon-chicken-defense4-m102x102.jpg"></div></a></div></div> <div class="game-boxes"><div class="boxes-in"><a href="/halloween-wheelie-bike"><div class="title">Halloween Wheelie Bike			</div><div class="img-game"><img class="lozad" data-loaded="false" data-src="/upload/cache/upload/imgs/halloween-wheelie-bike4-m102x102.jpg"></div></a></div></div> <div class="game-boxes"><div class="boxes-in"><a href="/bubble-shooter-marbles"><div class="title">Bubble Shooter Marbles			</div><div class="img-game"><img class="lozad" data-loaded="false" data-src="/upload/cache/upload/imgs/bubble-shooter-marbles2-m102x102.jpg"></div></a></div></div> <div class="game-boxes"><div class="boxes-in"><a href="/power-connect-halloween"><div class="title">Power Connect Halloween			</div><div class="img-game"><img class="lozad" data-loaded="false" data-src="/upload/cache/upload/imgs/power-conect-halloween6-m102x102.jpg"></div></a></div></div> <div class="game-boxes"><div class="boxes-in"><a href="/brick-out-shoot-the-ball-crusher-legend-space-outl"><div class="title">Brick Out Shoot the ball Crusher Legend Space Outl			</div><div class="img-game"><img class="lozad" data-loaded="false" data-src="/upload/cache/upload/imgs/brick-out-shoot-the-ball3-m102x102.jpg"></div></a></div></div> <div class="game-boxes"><div class="boxes-in"><a href="/rally-point-3"><div class="title">Rally Point 3			</div><div class="img-game"><img class="lozad" data-loaded="false" data-src="/upload/cache/upload/imgs/rally-point-32-m102x102.jpg"></div></a></div></div> <div class="game-boxes"><div class="boxes-in"><a href="/crash-of-carsio"><div class="title">Crash of Cars.io			</div><div class="img-game"><img class="lozad" data-loaded="false" data-src="/upload/cache/upload/imgs/crash-of-cars-io3-m102x102.jpg"></div></a></div></div> <div class="game-boxes"><div class="boxes-in"><a href="/the-dunk-ball"><div class="title">The Dunk Ball			</div><div class="img-game"><img class="lozad" data-loaded="false" data-src="/upload/cache/upload/imgs/the-dunk-ball3-m102x102.jpg"></div></a></div></div> <div class="game-boxes"><div class="boxes-in"><a href="/sudoku-easy"><div class="title">Sudoku Easy			</div><div class="img-game"><img class="lozad" data-loaded="false" data-src="/upload/cache/upload/imgs/sudokuw3-m102x102.jpg"></div></a></div></div> <div class="game-boxes"><div class="boxes-in"><a href="/subway-surfers-runner-hoursis"><div class="title">Subway Surfers Runner hoursis			</div><div class="img-game"><img class="lozad" data-loaded="false" data-src="/upload/cache/upload/imgs/subway-s-m102x102.jpg"></div></a></div></div> <div class="game-boxes"><div class="boxes-in"><a href="/interstellar-run"><div class="title">Interstellar Run			</div><div class="img-game"><img class="lozad" data-loaded="false" data-src="/upload/cache/upload/imgs/interstellar-run3-m102x102.jpg"></div></a></div></div> 
+										</div><center><a title="More Games" href="/new-games" class="btn btn-light">More</a></center></div></div></div></div> <div class="section"><div class="containerfull"><div class="mainrow"><div class="game-other"><div class="box-x"><!-- Load Facebook SDK for JavaScript --><div id="fb-root"></div><script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.3"></script><!-- Your embedded comments code --><div class="fb-comments" data-colorscheme="dark" data-href="http://basketball-legends.online/" data-numposts="5" data-colorscheme="durk" ></div></div></div></div></div></div><div class="section"><div class="footer"><div class="containerfull"><div class="mainrow"><p>Copyright © 2021 https://basketball-legends.online</p><style>.foot_wrapper{
+						text-align: center;
+					}
+					.foot_wrapper ul{
+						padding: 0;
+						margin: 0;
+					}
+					.foot_wrapper li{
+						display: inline;
+						border-right: 1px;
+					}
+
+					
+					.foot_wrapper a{
+						margin: 0 10px;
+						text-decoration: none;
+						color: #fff;
+					}
+</style><div class="foot_wrapper"><ul><li><a title="About Us" target="_blank" href="/about-us.php">About Us</a></li><li><a title="Copyright Infringement Notice Procedure" target="_blank" href="/copyright-infringement-notice-procedure.php">Copyright Infringement Notice Procedure</a></li><li><a title="Contact Us" target="_blank" href="/contact-us.php">Contact Us</a></li><li><a title="Privacy Policy" target="_blank" href="/privacy-policy.php">Privacy Policy</a></li><li><a title="Term Of Use" target="_blank" href="/term-of-use.php">Term Of Use</a></li></ul></div> 
+</div></div></div></div> <script src="/themes/basketballlegend/rs/js/bootstrap.min.js" ></script><script>$("#expand").on('click', function () {
+		$("#iframehtml5").addClass("force_full_screen"); 
+		requestFullScreen(document.body);
+	 });
+
+	 $("#_exit_full_screen").on('click', cancelFullScreen);
+
+	 function requestFullScreen(element) {
+	 // Supports most browsers and their versions.
+			var requestMethod = element.requestFullScreen || element.webkitRequestFullScreen || element.mozRequestFullScreen || element.msRequestFullScreen;
+
+		 if (requestMethod) { // Native full screen.
+			requestMethod.call(element);
+		 } else if (typeof window.ActiveXObject !== "undefined") { // Older IE.
+			 var wscript = new ActiveXObject("WScript.Shell");
+			 if (wscript !== null) {
+			 wscript.SendKeys("{F11}");
+			 }
+		 }
+	 }
+
+	 function cancelFullScreen() {
+		 $("#iframehtml5").removeClass("force_full_screen"); 
+		var requestMethod = document.cancelFullScreen || document.webkitCancelFullScreen || document.mozCancelFullScreen || document.exitFullScreenBtn;
+		 if (requestMethod) { // cancel full screen.
+			requestMethod.call(document);
+		 } else if (typeof window.ActiveXObject !== "undefined") { // Older IE.
+			 var wscript = new ActiveXObject("WScript.Shell");
+			 if (wscript !== null) {
+			 wscript.SendKeys("{F11}");
+			 }
+		 }
+	 }
+
+	 if (document.addEventListener) {
+		 document.addEventListener('webkitfullscreenchange', exitHandler, false);
+		 document.addEventListener('mozfullscreenchange', exitHandler, false);
+		 document.addEventListener('fullscreenchange', exitHandler, false);
+		 document.addEventListener('MSFullscreenChange', exitHandler, false);
+	 }
+
+	 function exitHandler() {
+		 if (document.webkitIsFullScreen === false
+		 || document.mozFullScreen === false
+		 || document.msFullscreenElement === false) {
+		 cancelFullScreen();
+		 }
+	 }</script><style>.force_full_screen{
+		position: fixed !important;
+		width: 100% !important;
+		height: 100% !important;
+		z-index: 999;
+		top: 0px !important;;
+		border: 0px !important;;
+		left: 0px !important;;
+		right: 0px !important;;
+	}</style><style>.my_fade {
+	animation-name: fade;
+	animation-duration: 2s;
+}
+
+@keyframes fade {
+	from {
+		opacity: 1;
+	}
+	to {
+		opacity: 1;
+	}
+}
+img.lozad{
+	width: 100%;
+	min-height: 120px;
+}</style><script src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script><script> 
+document.addEventListener("DOMContentLoaded", function() {
+	lozad('.lozad', {
+		load: function(el) {
+			el.src = el.dataset.src;
+			el.onload = function() {
+				el.classList.add('my_fade'); 
+			}
+		}
+	}).observe();
+});	</script> 	</body></html>
